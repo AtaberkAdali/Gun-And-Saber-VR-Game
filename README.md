@@ -3,7 +3,7 @@ Made using Unity version 2020.3.30f1
 
 *Project End Year : 2023*
 
-Oculus integration package and Eazy slice master framework are used. Suitable for VR use.
+Oculus integration package and Eazy slice master framework are used. Suitable for VR use. 
 
 
 https://github.com/AtaberkAdali/Gun-And-Saber-VR-Game/assets/59842906/22442d27-b0cc-446f-b730-0a9fbcabca7e
